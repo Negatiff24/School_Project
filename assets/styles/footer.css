@@ -1,0 +1,22 @@
+.footer {
+	background-color: var(--white);
+}
+
+.footer__panel {
+	margin-top: 40px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer__link {
+	color: var(--grey);
+	font-size: 19px;
+	padding: 5px 0 5px 0;
+}
+
+.footer__date {
+	font-size: 14px;
+	color: var(--grey);
+	padding-bottom: 10px;
+	text-align: center;
+}

@@ -1,0 +1,23 @@
+.header {
+	background-color: var(--white);
+}
+
+.header__container {
+	padding: 5px 0 5px 0;
+}
+
+.header__panel {
+	display: flex;
+	justify-content: space-between;
+}
+
+.header__simbol {
+	font-size: 19px;
+	color: var(--grey);
+}
+
+.header__link {
+	font-size: 19px;
+	color: var(--grey);
+	padding-left: 15px;
+}

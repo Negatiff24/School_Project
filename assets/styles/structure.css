@@ -1,0 +1,20 @@
+.structure__container {
+	padding-bottom: 40px;
+	border-bottom: solid 5px var(--white);
+}
+
+.structure__title {
+	padding-top: 40px;
+	font-size: 40px;
+	color: var(--white);
+}
+
+.structure__info {
+	font-size: 20px;
+	line-height: 1.5;
+	color: var(--white);
+}
+
+.structure__img {
+	width: 60%;
+}

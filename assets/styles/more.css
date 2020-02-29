@@ -1,0 +1,28 @@
+.more__container {
+	border-bottom: solid 5px var(--white);
+}
+
+.more__title {
+	padding-top: 20px;
+	font-size: 40px;
+	color: var(--white);
+}
+
+.more__container {
+	padding-bottom: 40px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.more__info {
+	padding-top: 20px;
+	font-size: 20px;
+	line-height: 1.5;
+	color: var(--white);
+	width: 50%;
+}
+
+.more__img {
+	width: 50%;
+	min-height: 283px;
+}

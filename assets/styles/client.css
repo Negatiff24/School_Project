@@ -1,0 +1,22 @@
+.client__title {
+	padding-top: 40px;
+	font-size: 40px;
+	color: var(--white);
+}
+
+.client__info {
+	font-size: 20px;
+	line-height: 1.5;
+	color: var(--white);
+}
+
+.client__img {
+	width: 60%;
+}
+
+.detail {
+	font-size: 20px;
+	line-height: 1.5;
+	color: var(--white);
+	padding-top: 10px;
+}

@@ -1,0 +1,21 @@
+.hero__panel {
+	border-bottom: solid 5px var(--white);
+}
+
+.hero__title {
+	padding-top: 20px;
+	font-size: 50px;
+	color: var(--white);
+}
+
+.hero__info {
+	padding-top: 20px;
+	font-size: 30px;
+	color: var(--white);
+}
+
+.hero__img {
+	max-width: 400px;
+	align-items: center;
+	margin: 0 auto;
+}
