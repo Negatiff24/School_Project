@@ -1,3 +1,7 @@
+.client {
+	min-height: 100vh;
+}
+
 .client__title {
 	padding-top: 40px;
 	font-size: 40px;
@@ -5,18 +9,22 @@
 }
 
 .client__info {
-	font-size: 20px;
-	line-height: 1.5;
+	padding-top: 20px;
+	font-size: 30px;
 	color: var(--white);
 }
 
 .client__img {
-	width: 60%;
+	width: 700px;
+	height: 250px;
+}
+
+.client__list {
+	padding-left: 30px;
 }
 
 .detail {
-	font-size: 20px;
-	line-height: 1.5;
+	font-size: 30px;
 	color: var(--white);
 	padding-top: 10px;
 }

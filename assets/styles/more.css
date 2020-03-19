@@ -1,3 +1,7 @@
+.more {
+	min-height: 100vh;
+}
+
 .more__container {
 	border-bottom: solid 5px var(--white);
 }
@@ -9,20 +13,20 @@
 }
 
 .more__container {
+	padding-top: 20px;
 	padding-bottom: 40px;
 	display: flex;
 	justify-content: space-between;
 }
 
 .more__info {
-	padding-top: 20px;
-	font-size: 20px;
-	line-height: 1.5;
+	
+	font-size: 30px;
 	color: var(--white);
 	width: 50%;
 }
 
 .more__img {
-	width: 50%;
+	width: 53%;
 	min-height: 283px;
 }

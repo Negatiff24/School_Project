@@ -12,12 +12,16 @@
 }
 
 .header__simbol {
-	font-size: 19px;
+	font-size: 22px;
 	color: var(--grey);
 }
 
 .header__link {
-	font-size: 19px;
+	font-size: 22px;
 	color: var(--grey);
 	padding-left: 15px;
+}
+
+.header__link:hover {
+	color: var(--blue);
 }

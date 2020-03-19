@@ -1,3 +1,7 @@
+.structure {
+	min-height: 100vh;
+}
+
 .structure__container {
 	padding-bottom: 40px;
 	border-bottom: solid 5px var(--white);
@@ -10,8 +14,8 @@
 }
 
 .structure__info {
-	font-size: 20px;
-	line-height: 1.5;
+	padding-top: 20px;
+	font-size: 30px;
 	color: var(--white);
 }
 
